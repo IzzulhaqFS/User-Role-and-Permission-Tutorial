@@ -9,7 +9,7 @@ Izzulhaq Fawwaz Syauqiy
 05111840000023
 
 ## Dokumentasi
-Link YouTube : 
+Link YouTube : https://youtu.be/n-b8_N2AyCs
 
 ## Tentang Aplikasi
 Aplikasi ini mencoba menjelaskan apa yang bisa dilakukan oleh pengguna dengan role tertentu. Role Admin dapat melakukan CRUD terhadap data User, Role, dan Product. Admin dapat membuat user baru dan menentukan role-nya sehingga user tersebut hanya dapat melakukan sesuatu sesuai dengan permission yang ada pada role yang mereka miliki.
